@@ -1,0 +1,35 @@
+{
+  "name": "hackrice",
+  "version": "1.0.0",
+  "description": "website for rice university hackathon",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export -o docs",
+    "deploy": "next build && next export -o docs && cd docs && touch CNAME && echo hack.rice.edu >> CNAME && touch .nojekyll && cd .. && git add ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-regular-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@zeit/next-css": "^0.2.0",
+    "fs": "0.0.1-security",
+    "next": "^6.1.2",
+    "rc-collapse": "^1.11.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.4.2",
+    "react-meta-tags": "^0.7.4",
+    "react-pdf": "^4.0.5",
+    "react-scroll": "^1.7.10",
+    "rebass": "^2.3.4",
+    "styled-components": "^3.4.10",
+    "styled-jsx": "^3.0.2",
+    "touch": "^3.1.0"
+  }
+}

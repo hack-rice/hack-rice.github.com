@@ -1,0 +1,32 @@
+{
+  "base": "#191919",
+  "light": "#b6baf9",
+  "dark": "#29282c",
+  "black": "#3d3e4c",
+  "gray": [
+    "#ffffff",
+    "#eff0f9",
+    "#dfe0e6",
+    "#d1d2db",
+    "#c2c2cf",
+    "#b1b1c2",
+    "#9d9eb2",
+    "#8687a0",
+    "#696a82",
+    "#3d3e4c"
+  ],
+  "gray2": [
+    "#ebf1f5",
+    "#d6e2eb",
+    "#bfd1e0",
+    "#a5bfd3",
+    "#86a9c4",
+    "#618eb2",
+    "#5780a0",
+    "#4c708c",
+    "#3f5c73",
+    "#2c4152"
+  ],
+  "white": ["#ffffff"],
+  "lightAccentColor": "#F6B8B8"
+}
