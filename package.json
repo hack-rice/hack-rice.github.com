@@ -18,7 +18,7 @@
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.11",
-    "@zeit/next-css": "^0.2.0",
+    "@zeit/next-css": "^1.0.1",
     "fs": "0.0.1-security",
     "next": "^6.1.2",
     "rc-collapse": "^1.11.1",
