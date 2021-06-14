@@ -20,7 +20,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "@zeit/next-css": "^0.2.0",
     "fs": "0.0.1-security",
-    "next": "^6.1.2",
+    "next": "^7.0.0",
     "rc-collapse": "^1.11.1",
     "react": "^16.8.3",
     "react-dom": "^16.4.2",
